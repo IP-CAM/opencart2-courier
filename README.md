@@ -1,14 +1,14 @@
-Доставка курьером
+Courier delivery
 ========================
 
-Courier -  модуль для opencart2 (тестировался на версии 2.0.1.1).
-Это порт модуля http://opencart.ws/metody-dostavki/22-dostavka-kurerom.html?filter_category_id=67&filter_license=
-На версию opencart2.
+Courier - module for opencart2 (tested on version 2.0.1.1).
+This is a module port http://opencart.ws/metody-dostavki/22-dostavka-kurerom.html?filter_category_id=67&filter_license=
+For the opencart2.
  
-Как установить и запустить?
+How to install and run?
 --------------
  
-Для установки скопируйте файлы к себе в проект.
-Зайдите настройки и задайте два параметр:
-1) С которой суммы заказа будет бесплатная доставка.
-2) Стоимость платной доставки
+To install, copy the files to your project.
+Go to settings and set two parameters:
+1) From which order amount will be free shipping.
+2) The cost of paid delivery 
